@@ -1,0 +1,10 @@
+table, th, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+body{
+  background-image: url("https://wallpapers.com/images/high/all-blue-cricket-jersey-dhoni-hd-a0glo3b2xj8xqtmh.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
